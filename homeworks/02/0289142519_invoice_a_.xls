@@ -1,0 +1,131 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="php">
+<style>
+        				table {mso-displayed-decimal-separator:"."; mso-displayed-thousand-separator:" ";}
+        				td{mso-protection:locked visible; white-space:nowrap;}
+        				.x1{mso-number-format:0;}
+        				.x2{mso-number-format:"@";}
+        				.x3{mso-number-format:0.00;}
+        				</style><!--[if gte mso 9]><xml>
+        						 <x:ExcelWorkbook>
+        						  <x:ExcelWorksheets>
+        						   <x:ExcelWorksheet>
+        							<x:Name>0289142519</x:Name>
+        							<x:WorksheetOptions>
+        							 <x:Selected/>
+        							 <x:ProtectContents>False</x:ProtectContents>
+        							 <x:ProtectObjects>False</x:ProtectObjects>
+        							 <x:ProtectScenarios>False</x:ProtectScenarios>
+        							</x:WorksheetOptions>
+        						   </x:ExcelWorksheet>
+        						  </x:ExcelWorksheets>
+        						  <x:WindowHeight>12660</x:WindowHeight>
+        						  <x:WindowWidth>15180</x:WindowWidth>
+        						  <x:WindowTopX>480</x:WindowTopX>
+        						  <x:WindowTopY>135</x:WindowTopY>
+        						  <x:ProtectStructure>False</x:ProtectStructure>
+        						  <x:ProtectWindows>False</x:ProtectWindows>
+        						 </x:ExcelWorkbook>
+        						</xml><![endif]--><body>
+<table border="1">
+<tr>
+<td>SIM Карта</td>
+<td>Номер</td>
+<td>Описание на услугата</td>
+<td>Количество</td>
+<td>Цена лв.</td></tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Мтел - LOOP зона </td>
+<td class=x2 align=right>18:02</td>
+<td class=x3 align=right>
+0.16</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Мтел - Мтел </td>
+<td class=x2 align=right>16:06</td>
+<td class=x3 align=right>
+3.89</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Мобилен Интернет (MB) </td>
+<td class=x2 align=right>13.873</td>
+<td class=x3 align=right>
+0.00</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>SMS Мтел </td>
+<td class=x2 align=right>2</td>
+<td class=x3 align=right>
+0.24</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>SMS Други национални мрежи </td>
+<td class=x2 align=right>1</td>
+<td class=x3 align=right>
+0.12</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Инфо услуги </td>
+<td class=x2 align=right>-</td>
+<td class=x3 align=right>
+0.00</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Отстъпка 200 мин. към нац. мрежи (без Loop&СиП) IVR </td>
+<td class=x2 align=right>-</td>
+<td class=x3 align=right>
+-3.89</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Отстъпка 100 SMS към Mtel и LOOP </td>
+<td class=x2 align=right>-</td>
+<td class=x3 align=right>
+-0.24</td>
+</tr>
+<tr>
+<td class=x2>
+8935901187050688401</td>
+<td class=x2>
+359883506997 </td>
+<td>Отстъпка 2000 мин. от LOOP </td>
+<td class=x2 align=right>-</td>
+<td class=x3 align=right>
+-0.16</td>
+</tr>
+</table>
+</body>
+</html>

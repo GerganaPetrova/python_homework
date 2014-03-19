@@ -1,0 +1,72 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<style>
+        				table {mso-displayed-decimal-separator:"."; mso-displayed-thousand-separator:" ";}
+        				td{mso-protection:locked visible; white-space:nowrap;}
+        				.x1{mso-number-format:"0.00";}
+        				</style><!--[if gte mso 9]><xml>
+        						 <x:ExcelWorkbook>
+        						  <x:ExcelWorksheets>
+        						   <x:ExcelWorksheet>
+        							<x:Name>0289142519</x:Name>
+        							<x:WorksheetOptions>
+        							 <x:Selected/>
+        							 <x:ProtectContents>False</x:ProtectContents>
+        							 <x:ProtectObjects>False</x:ProtectObjects>
+        							 <x:ProtectScenarios>False</x:ProtectScenarios>
+        							</x:WorksheetOptions>
+        						   </x:ExcelWorksheet>
+        						  </x:ExcelWorksheets>
+        						  <x:WindowHeight>12660</x:WindowHeight>
+        						  <x:WindowWidth>15180</x:WindowWidth>
+        						  <x:WindowTopX>480</x:WindowTopX>
+        						  <x:WindowTopY>135</x:WindowTopY>
+        						  <x:ProtectStructure>False</x:ProtectStructure>
+        						  <x:ProtectWindows>False</x:ProtectWindows>
+        						 </x:ExcelWorkbook>
+        						</xml><![endif]--><body>
+<table border="1">
+<tr>
+<td>Описание на услугата</td>
+<td>Цена лв.</td></tr>
+<tr>
+<td>SMS Други национални мрежи</td>
+<td class=x1 align=right>0,12</td>
+</tr>
+<tr>
+<td>SMS Мтел</td>
+<td class=x1 align=right>0,24</td>
+</tr>
+<tr>
+<td>Инфо услуги</td>
+<td class=x1 align=right>0,00</td>
+</tr>
+<tr>
+<td>Мобилен Интернет (MB)</td>
+<td class=x1 align=right>0,00</td>
+</tr>
+<tr>
+<td>Мтел - LOOP зона</td>
+<td class=x1 align=right>0,16</td>
+</tr>
+<tr>
+<td>Мтел - Мтел</td>
+<td class=x1 align=right>3,89</td>
+</tr>
+<tr>
+<td>Отстъпка 100 SMS към Mtel и LOOP</td>
+<td class=x1 align=right>-0,24</td>
+</tr>
+<tr>
+<td>Отстъпка 200 мин. към нац. мрежи (без Loop&СиП) IVR</td>
+<td class=x1 align=right>-3,89</td>
+</tr>
+<tr>
+<td>Отстъпка 2000 мин. от LOOP</td>
+<td class=x1 align=right>-0,16</td>
+</tr>
+</table>
+</body>
+</html>
