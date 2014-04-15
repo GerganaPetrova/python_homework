@@ -173,3 +173,5 @@ def BeloteDeck():
 def SixtySixDeck():
     return CardCollection([Card(rank, suit) for suit in DECK_SUITS
                            for rank in SIXTY_SIX__DECK_RANKS])
+
+
